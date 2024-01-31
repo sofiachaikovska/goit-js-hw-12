@@ -85,7 +85,7 @@ button:hover {
   letter-spacing: 0.04em;
 }
 
-.image-list {
+.gallery {
   display: flex;
   justify-content: center;
   align-items: flex-start;
